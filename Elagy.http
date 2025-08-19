@@ -1,0 +1,6 @@
+@Elagy_HostAddress = http://localhost:5208
+
+GET {{Elagy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
